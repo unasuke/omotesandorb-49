@@ -1,6 +1,4 @@
-# TODO: スライドのタイトル
-
-TODO: スライドの説明
+# omotesandorb #49
 
 ## 作者向け
 
@@ -16,9 +14,9 @@ TODO: スライドの説明
 
 ### インストール
 
-    gem install rabbit-slide--omotesandorb-49
+    gem install rabbit-slide-unasuke-omotesandorb-49
 
 ### 表示
 
-    rabbit rabbit-slide--omotesandorb-49.gem
+    rabbit rabbit-slide-unasuke-omotesandorb-49.gem
 
